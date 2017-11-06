@@ -1,2 +1,2 @@
 # iterate-tree
-small js function to iterate tree structure
+small js function to iterate tree structure in pure JavaScript
